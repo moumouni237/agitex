@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <row>
+    <nom>sankara</nom>
+    <prenom>moumouni</prenom>
+    <age>25</age>
+    <profession>informaticien</profession>
+    <salaire>500</salaire>
+  </row>
+  <row>
+    <nom>sankara</nom>
+    <prenom>moumouni</prenom>
+    <age>25</age>
+    <profession>informaticien</profession>
+    <salaire>300</salaire>
+  </row>
+  <row>
+    <nom>sankara</nom>
+    <prenom>moumouni</prenom>
+    <age>25</age>
+    <profession>lanceuse_de_foulard</profession>
+    <salaire>500</salaire>
+  </row>
+  <row>
+    <nom>sankara</nom>
+    <prenom>moumouni</prenom>
+    <age>25</age>
+    <profession>lanceuse_de_foulard</profession>
+    <salaire>500</salaire>
+  </row>
+  <row>
+    <nom>sankara</nom>
+    <prenom>moumouni</prenom>
+    <age>25</age>
+    <profession>mecanicien</profession>
+    <salaire>900</salaire>
+  </row>
+</root>

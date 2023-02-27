@@ -1,0 +1,34 @@
+[
+    {
+        "nom":"sankara",
+        "prenom":"moumouni",
+        "age":25,
+        "profession":"informaticien",
+        "salaire":500
+    }, {
+        "nom":"sankara",
+        "prenom":"moumouni",
+        "age":25,
+        "profession":"informaticien",
+        "salaire":300
+    }, {
+        "nom":"sankara",
+        "prenom":"moumouni",
+        "age":25,
+        "profession":"lanceuse_de_foulard",
+        "salaire":500
+    }, {
+        "nom":"sankara",
+        "prenom":"moumouni",
+        "age":25,
+        "profession":"lanceuse_de_foulard",
+        "salaire":500
+    }, {
+        "nom":"sankara",
+        "prenom":"moumouni",
+        "age":25,
+        "profession":"mecanicien",
+        "salaire":900
+    }
+    
+]
